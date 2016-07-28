@@ -3,7 +3,6 @@
 import sys
 import random
 import linecache
-import time
 
 filename = "movies.txt"
 arr = []
