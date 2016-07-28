@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
 import sys
-import statistics
-import re
 import random
 import linecache
 import time
